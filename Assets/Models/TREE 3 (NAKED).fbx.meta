@@ -3,7 +3,12 @@ guid: 5be5402a2d24be34cb7de01d7650c0db
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trunk shadow.004
+    second: {fileID: 2100000, guid: 5f36ee93002132b42b66ad66001e4dad, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

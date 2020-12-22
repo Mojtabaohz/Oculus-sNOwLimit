@@ -3,7 +3,27 @@ guid: cc0ead6f19caffe41a858163f5da337d
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trunk highlight.002
+    second: {fileID: 2100000, guid: fafa0e87f5ae4de4eace0d703eae5800, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trunk mid
+    second: {fileID: 2100000, guid: 0bb631b3b4e73a049a4fd066a8f000f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trunk midtone.002
+    second: {fileID: 2100000, guid: 670aefc8e7c6e084388d0b5b1917daaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trunk shadow.003
+    second: {fileID: 2100000, guid: 87daaae74d14a8a4da28263a4411fb5a, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
