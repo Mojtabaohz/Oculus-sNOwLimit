@@ -11,6 +11,7 @@ public class MoveToPlayer : MonoBehaviour
     [SerializeField]
     private float maxSpeed = 70;
     
+    
     // Start is called before the first frame update
     void Start()
     {

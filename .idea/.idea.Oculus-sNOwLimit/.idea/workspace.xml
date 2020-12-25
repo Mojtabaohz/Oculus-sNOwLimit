@@ -20,13 +20,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="326c7d0b-8a4c-43f7-9823-bc814bc2d1ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Tree 01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Tree 01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Tree 02(Recolored).prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Tree 02(Recolored).prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/pineTree01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/pineTree01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SnowShader.shadergraph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SnowShader.shadergraph.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Oculus-sNOwLimit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Oculus-sNOwLimit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/New Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/New Material.mat.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/PineTree01/Top of the tree.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/PineTree01/Top of the tree.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/PineTree01/Trunk of the tree.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/PineTree01/Trunk of the tree.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/PineTree02/Top of the tree.001.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/PineTree02/Top of the tree.001.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/PineTree02/Trunk.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/PineTree02/Trunk.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/PineTree03/Top of the tree.002.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/PineTree03/Top of the tree.002.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Rock2(medium)/Material.001.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Rock2(medium)/Material.001.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Rock2(medium)/Material.002.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Rock2(medium)/Material.002.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Rock2(medium)/Material.003.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Rock2(medium)/Material.003.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Stone01/Stone.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Stone01/Stone.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Tree1/Material.010.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Tree1/Material.010.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Tree2(recolored)/trunk mid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Tree2(recolored)/trunk mid.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Tree2/Material.011.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Tree2/Material.011.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_cinderblock_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_cinderblock_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MeterGrid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MeterGrid.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ROCK 1 (BIG).prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/ROCK 1 (BIG).prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Snow.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Snow.shadergraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TREE 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TREE 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TREE 2 (RECOLORED).prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TREE 2 (RECOLORED).prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/pinetree001.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/pinetree001.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveToPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveToPlayer.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +68,8 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/SnowWheather.shader" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Snow.shader" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MoveToPlayer.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1lHgMYc8i1xQaBjiPv6YTCaw6nP" />
@@ -101,6 +129,11 @@
       <workItem from="1608208498073" duration="891000" />
       <workItem from="1608628598585" duration="555000" />
       <workItem from="1608629195289" duration="1657000" />
+      <workItem from="1608729885535" duration="610000" />
+      <workItem from="1608803226595" duration="2048000" />
+      <workItem from="1608889779620" duration="458000" />
+      <workItem from="1608891020196" duration="1350000" />
+      <workItem from="1608898185305" duration="1356000" />
     </task>
     <servers />
   </component>
