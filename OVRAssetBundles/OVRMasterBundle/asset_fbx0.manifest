@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2295355184
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e19f8ef8e3ee42b4fc22a52e456d7dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767a59f8de390d2354823e760c737a44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Models/ball_billiard_10.fbx
+- Assets/Models/stone002.fbx
+- Assets/Models/PineTreefbx.fbx
+- Assets/Models/pinetree002.fbx
+- Assets/Models/ROCK 1 (BIG).fbx
+- Assets/Models/stone003.fbx
+- Assets/Models/TREE 3 (NAKED).fbx
+- Assets/Models/TREE 2.fbx
+- Assets/Models/stone001.fbx
+- Assets/Models/pinetree003.fbx
+- Assets/Models/ROCK 2(SMALL).fbx
+- Assets/Models/ROCK 2(MEDIUM).fbx
+- Assets/Models/TREE 1.fbx
+- Assets/Models/icrecream_balls.fbx
+- Assets/Models/TREE 2 (RECOLORED).fbx
+Dependencies:
+- E:/HanzeUniversity/SecondYear/block02/VR-Project/Oculus/Oculus-sNOwLimit/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- E:/HanzeUniversity/SecondYear/block02/VR-Project/Oculus/Oculus-sNOwLimit/OVRAssetBundles/OVRMasterBundle/asset_mat1

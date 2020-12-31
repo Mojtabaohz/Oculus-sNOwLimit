@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 412182664
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b14d5f30d02b0e7c015453a31dd42e3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22357172b8cea85847937e8f62d0c077
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Materials/Rock2(medium)/Material.003.mat
+- Assets/Models/Materials/Rock2(medium)/Material.002.mat
+- Assets/Models/Materials/Stone03/Stone.002.mat
+- Assets/Models/Materials/Rock1(big)/Material.004.mat
+- Assets/Models/Materials/IcecreamBalls/IcecreamBall.mat
+- Assets/Models/Materials/PineTree03/Top of the tree.002.mat
+- Assets/Models/Materials/Tree3/trunk shadow.004.mat
+- Assets/Models/Materials/Tree2(recolored)/trunk mid.mat
+- Assets/Models/Materials/Rock2(medium)/Material.001.mat
+- Assets/Models/Materials/Stone02/Stone.001.mat
+- Assets/Models/Materials/Tree2/trunk midtone.001.mat
+- Assets/Models/Materials/Rock2(small)/Material.007.mat
+- Assets/Models/Materials/Tree1/trunk highlight.001.mat
+- Assets/Models/Materials/Tree1/Material.010.mat
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_cinderblock_01.mat
+- Assets/Models/Materials/Rock1(big)/Material.005.mat
+- Assets/Models/Materials/Tree2/trunk shadow.002.mat
+- Assets/Models/Materials/Tree2(recolored)/trunk highlight.002.mat
+- Assets/Models/Materials/Tree2(recolored)/trunk shadow.003.mat
+- Assets/Models/Materials/Tree2/trunk highlight.mat
+- Assets/Models/Materials/Rock2(small)/Material.008.mat
+- Assets/ExampleAssets/Materials/Skybox Light.mat
+- Assets/Models/Materials/Tree2(recolored)/trunk midtone.002.mat
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Materials/Ball10.mat
+- Assets/Models/Materials/Rock2(small)/Material.009.mat
+- Assets/Models/Materials/PineTree02/Top of the tree.001.mat
+- Assets/Models/Materials/Rock1(big)/Material.006.mat
+- Assets/Models/Materials/PineTree03/Trunk.001.mat
+- Assets/Models/Materials/UV Map Colored.mat
+- Assets/Models/Materials/Stone01/Stone.mat
+Dependencies:
+- E:/HanzeUniversity/SecondYear/block02/VR-Project/Oculus/Oculus-sNOwLimit/OVRAssetBundles/OVRMasterBundle/asset_png0
+- E:/HanzeUniversity/SecondYear/block02/VR-Project/Oculus/Oculus-sNOwLimit/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- E:/HanzeUniversity/SecondYear/block02/VR-Project/Oculus/Oculus-sNOwLimit/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- E:/HanzeUniversity/SecondYear/block02/VR-Project/Oculus/Oculus-sNOwLimit/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0

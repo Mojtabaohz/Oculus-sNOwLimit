@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2084429462
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fcc393d3d1f8ef6fb897d0175856c55c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scripts/SnowShader.shadergraph
+Dependencies:
+- E:/HanzeUniversity/SecondYear/block02/VR-Project/Oculus/Oculus-sNOwLimit/OVRAssetBundles/OVRMasterBundle/asset_shader0

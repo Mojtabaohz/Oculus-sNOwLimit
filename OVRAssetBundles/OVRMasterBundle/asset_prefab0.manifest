@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2741151417
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f723ccd5b6742bd7dd85fda39ce712cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 959dae103225b216ce310b0b738c319c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2601b92851e79924b88b1a4577ff4d07, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/stone003.prefab
+- Assets/Prefabs/pinetree003.prefab
+- Assets/Prefabs/stone002.prefab
+- Assets/Prefabs/icrecream_balls.prefab
+- Assets/Prefabs/ROCK 1 (BIG).prefab
+- Assets/Prefabs/SnowParticle.prefab
+- Assets/Prefabs/TREE 2.prefab
+- Assets/Prefabs/ROCK 2(SMALL).prefab
+- Assets/Prefabs/pineTree01.prefab
+- Assets/Prefabs/pinetree002.prefab
+- Assets/Prefabs/Tree 02(Recolored).prefab
+- Assets/Prefabs/ROCK 2(MEDIUM).prefab
+- Assets/Prefabs/Tree 01.prefab
+- Assets/Prefabs/TREE 3 (NAKED).prefab
+- Assets/Prefabs/stone001.prefab
+Dependencies:
+- E:/HanzeUniversity/SecondYear/block02/VR-Project/Oculus/Oculus-sNOwLimit/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- E:/HanzeUniversity/SecondYear/block02/VR-Project/Oculus/Oculus-sNOwLimit/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- E:/HanzeUniversity/SecondYear/block02/VR-Project/Oculus/Oculus-sNOwLimit/OVRAssetBundles/OVRMasterBundle/asset_fbx0

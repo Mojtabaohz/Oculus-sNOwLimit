@@ -22,6 +22,7 @@ public class Instantiator : MonoBehaviour
     void Update()
     {
         SpawnTree();
+        //OVRInput.Update();
     }
     void SpawnTree()
     {

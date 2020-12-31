@@ -20,39 +20,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="326c7d0b-8a4c-43f7-9823-bc814bc2d1ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Tree 01.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Tree 01.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Tree 02(Recolored).prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Tree 02(Recolored).prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/pineTree01.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/pineTree01.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SnowShader.shadergraph" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SnowShader.shadergraph.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animator/SpoonAnimator.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animator/SpoonAnimator.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/LeftControllerPf.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/LeftControllerPf.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/RightControllerPf.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/RightControllerPf.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/icecream_cone.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/icecream_cone.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/spoon.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/spoon.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/OVRMasterBundle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/OVRMasterBundle.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_exr0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_exr0.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_fbx0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_fbx0.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_jpg0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_jpg0.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_mat0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_mat0.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_mat1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_mat1.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_png0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_png0.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_prefab0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_prefab0.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_resources.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_shader0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_shader0.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/scene_samplescene" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/scene_samplescene.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/Temp/SceneLoadData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Oculus-sNOwLimit/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Oculus-sNOwLimit/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Oculus-sNOwLimit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Oculus-sNOwLimit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/New Material.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/New Material.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/PineTree01/Top of the tree.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/PineTree01/Top of the tree.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/PineTree02/Top of the tree.001.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/PineTree02/Top of the tree.001.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/PineTree03/Top of the tree.002.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/PineTree03/Top of the tree.002.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Rock2(medium)/Material.001.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Rock2(medium)/Material.001.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Rock2(medium)/Material.002.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Rock2(medium)/Material.002.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Rock2(medium)/Material.003.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Rock2(medium)/Material.003.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Stone01/Stone.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Stone01/Stone.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Tree1/Material.010.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Tree1/Material.010.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Tree2(recolored)/trunk mid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Tree2(recolored)/trunk mid.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Tree2/Material.011.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Tree2/Material.011.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_cinderblock_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_cinderblock_01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MeterGrid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MeterGrid.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ROCK 1 (BIG).prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/ROCK 1 (BIG).prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Snow.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Snow.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TREE 1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TREE 1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TREE 2 (RECOLORED).prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TREE 2 (RECOLORED).prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/pinetree001.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/pinetree001.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/IcecreamBalls/IcecreamBall.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/IcecreamBalls/IcecreamBall.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/IcecreamCone/Cone.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/IcecreamCone/Cone.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Spoon/Spoon.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Spoon/Spoon.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/icecream_cone.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/icecream_cone.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/icrecream_balls.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/icrecream_balls.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/spooon.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/spooon.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/OVRBuildConfig.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/OVRBuildConfig.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveToPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveToPlayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Instantiator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Instantiator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/Oculus Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/Oculus Settings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +83,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@0.10.0-preview.7/Runtime/Interaction/Controllers/XRBaseController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.shadergraph@7.3.1/Editor/Data/Graphs/PreviewProperty.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@7.3.1/Runtime/UniversalRenderPipeline.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/SnowWheather.shader" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Snow.shader" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MoveToPlayer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Oculus/VR/Scripts/OVRManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Instantiator.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1lHgMYc8i1xQaBjiPv6YTCaw6nP" />
@@ -134,6 +158,10 @@
       <workItem from="1608889779620" duration="458000" />
       <workItem from="1608891020196" duration="1350000" />
       <workItem from="1608898185305" duration="1356000" />
+      <workItem from="1609327780738" duration="3381000" />
+      <workItem from="1609340908052" duration="770000" />
+      <workItem from="1609414273918" duration="114000" />
+      <workItem from="1609414588524" duration="602000" />
     </task>
     <servers />
   </component>

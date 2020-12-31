@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1599288928
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a08d237db6fb84b7ac6fb13e6e80aaa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Materials/Tree1/trunk midtone.mat
+- Assets/Models/Materials/Tree2/Material.011.mat
+- Assets/Models/Materials/PineTree02/Trunk.mat
+- Assets/Models/Materials/Tree1/trunk shadow.001.mat
+Dependencies:
+- E:/HanzeUniversity/SecondYear/block02/VR-Project/Oculus/Oculus-sNOwLimit/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- E:/HanzeUniversity/SecondYear/block02/VR-Project/Oculus/Oculus-sNOwLimit/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0

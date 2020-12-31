@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3931610220
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3875d60517ba1af9d2298c5517d1bc2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Materials/IcecreamBalls/icecream.jpg
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Textures/ball_billiard_10_dif.jpg
+Dependencies: []

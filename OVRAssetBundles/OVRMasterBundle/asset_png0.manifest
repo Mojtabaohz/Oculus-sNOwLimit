@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1187622446
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d046643e3153ec9049500ce7bda478a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Textures/wall_cinder_01_dif.png
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Textures/wall_cinder_01_nml.png
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Textures/wall_cinder_01_msm.png
+- Assets/Models/UV Map Colored.png
+Dependencies: []
