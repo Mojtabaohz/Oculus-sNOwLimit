@@ -20,57 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="326c7d0b-8a4c-43f7-9823-bc814bc2d1ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Animator/SpoonAnimator.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animator/SpoonAnimator.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/LeftControllerPf.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/LeftControllerPf.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/RightControllerPf.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/RightControllerPf.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/icecream_cone.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/icecream_cone.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/spoon.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Controllers/spoon.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/OVRMasterBundle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/OVRMasterBundle.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_exr0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_exr0.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_fbx0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_fbx0.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_jpg0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_jpg0.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_mat0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_mat0.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_mat1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_mat1.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_png0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_png0.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_prefab0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_prefab0.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_resources.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_shader0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_shader0.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/scene_samplescene" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/OVRMasterBundle/scene_samplescene.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVRAssetBundles/Temp/SceneLoadData.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Oculus-sNOwLimit/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Oculus-sNOwLimit/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Oculus-sNOwLimit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Oculus-sNOwLimit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/IcecreamBalls/IcecreamBall.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/IcecreamBalls/IcecreamBall.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/IcecreamCone/Cone.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/IcecreamCone/Cone.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/Spoon/Spoon.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/Spoon/Spoon.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandMaterial.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/icecream_cone.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/icecream_cone.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/icrecream_balls.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/icrecream_balls.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/spooon.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/spooon.prefab.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/OVRBuildConfig.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/OVRBuildConfig.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Instantiator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Instantiator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/Oculus Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/Oculus Settings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
@@ -162,6 +115,7 @@
       <workItem from="1609340908052" duration="770000" />
       <workItem from="1609414273918" duration="114000" />
       <workItem from="1609414588524" duration="602000" />
+      <workItem from="1609581604783" duration="1358000" />
     </task>
     <servers />
   </component>

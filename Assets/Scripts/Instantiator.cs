@@ -5,10 +5,15 @@ using UnityEngine;
 public class Instantiator : MonoBehaviour
 {
     [SerializeField]
-    GameObject[]  movingObjects;
+    private float environmentSpawnRate = 1;
     [SerializeField]
-    private float spawnRate = 1;
-    private float _timer;
+    GameObject[]  environment;
+    [SerializeField] private float iceCreamSpawnRate = 2;
+
+    [SerializeField] private GameObject[] iceCreamScopes;
+    
+    private float _environmentTimer;
+    private float _iceCreamTimer;
 
     private GameObject _instantiatedGameObject;
 
@@ -21,23 +26,35 @@ public class Instantiator : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        SpawnTree();
+        SpawnEnvironment();
+        SpawnIceScopes();
         //OVRInput.Update();
     }
-    void SpawnTree()
+    void SpawnEnvironment()
     {
-        _timer += Time.deltaTime;
-        if(_timer >= spawnRate){
-            var movingObject = movingObjects[Random.Range(0,movingObjects.Length)];
-            _timer = 0;
-            Instantiate(movingObject, new Vector3(RandomX(), 1, 300),Quaternion.identity);
-            
+        _environmentTimer += Time.deltaTime;
+        if (_environmentTimer >= environmentSpawnRate)
+        {
+            var movingObject = environment[Random.Range(0, environment.Length)];
+            _environmentTimer = 0;
+            Instantiate(movingObject, new Vector3(RandomX(40), 1, 300), Quaternion.identity);
+
         }
-        
     }
 
-    float RandomX()
+    void SpawnIceScopes()
     {
-        return Random.Range(-40, 40);
+        _iceCreamTimer += Time.deltaTime;
+        if (_iceCreamTimer >= iceCreamSpawnRate)
+        {
+            var iceCreamObject = iceCreamScopes[Random.Range(0, iceCreamScopes.Length)];
+            _iceCreamTimer = 0;
+            Instantiate(iceCreamObject, new Vector3(RandomX(20), 1, 300), Quaternion.identity);
+        }
+    }
+
+    float RandomX(float posX)
+    {
+        return Random.Range(-posX, posX);
     }
 }
