@@ -7258,7 +7258,9 @@ MonoBehaviour:
   environmentSpawnRate: 1
   environment:
   - {fileID: 0}
-  iceCreamSpawnRate: 5
+  maxWidth: 8
+  minWidth: -12
+  iceCreamSpawnRate: 1.6
   iceCreamScopes:
   - {fileID: 7397078578269945244, guid: aef5f5a35bd1b3849be9e8d0a78b22f8, type: 3}
 --- !u!4 &237511224

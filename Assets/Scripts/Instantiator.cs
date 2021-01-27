@@ -8,6 +8,8 @@ public class Instantiator : MonoBehaviour
     private float environmentSpawnRate = 1;
     [SerializeField]
     GameObject[]  environment;
+    [SerializeField] private int maxWidth;
+    [SerializeField] private int minWidth;
     [SerializeField] private float iceCreamSpawnRate = 2;
 
     [SerializeField] private GameObject[] iceCreamScopes;
@@ -49,7 +51,7 @@ public class Instantiator : MonoBehaviour
         {
             var iceCreamObject = iceCreamScopes[Random.Range(0, iceCreamScopes.Length)];
             _iceCreamTimer = 0;
-            Instantiate(iceCreamObject, new Vector3(RandomX(20), 1, 300), Quaternion.identity);
+            Instantiate(iceCreamObject, new Vector3(Random.Range(maxWidth, minWidth), 7, 300), Quaternion.identity);
         }
     }
 
